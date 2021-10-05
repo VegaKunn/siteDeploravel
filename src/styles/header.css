@@ -1,0 +1,64 @@
+/*
+.ulCab {
+}
+*/
+.icon {
+  width: 2rem;
+  margin-right: 1rem;
+}
+
+.icon:hover {
+  cursor: pointer;
+  color: aqua;
+}
+
+.navClasse {
+  margin-left: 35px;
+}
+
+#logo {
+  margin-left: 8vh;
+}
+.logo:hover {
+  cursor: pointer;
+  color: rgb(95, 95, 95);
+}
+
+a {
+  color: rgb(221, 221, 221);
+  text-decoration: none;
+}
+
+a:hover {
+  cursor: pointer;
+  color: rgb(95, 95, 95);
+}
+
+.liCab {
+  text-decoration: none;
+  list-style-type: none;
+  display: inline;
+  padding: 10px 15px;
+  margin: 5px 5px;
+}
+
+.liCab:hover {
+  color: rgb(95, 95, 95);
+  cursor: pointer;
+}
+
+/* Carrinho, Busca e Perfil */
+
+.perfil {
+  display: flex;
+}
+
+#busca {
+  margin-right: 15px;
+  border-radius: 50px;
+  padding-left: 1rem;
+}
+
+#perfil {
+  margin-right: 15px;
+}

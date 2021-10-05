@@ -1,0 +1,32 @@
+.corpoMainSobreNos {
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 70%;
+  min-width: 360px;
+  height: auto;
+  justify-content: center;
+  color: white;
+}
+
+.sobreH1 {
+  margin-top: 5vh;
+  font-size: 3rem;
+  text-align: center;
+}
+
+.sobreH2 {
+  text-align: center;
+  font-size: 2.5rem;
+}
+
+.sobreP {
+  font-size: 2.2rem;
+  text-align: center;
+}
+
+.sobreFace {
+  color: rgb(17, 97, 224);
+}
+
+.sobreInsta {
+  color: rgb(19, 226, 226);
+}
